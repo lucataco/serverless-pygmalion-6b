@@ -1,6 +1,6 @@
 # 🍌 Banana Serverless
 
-This repo gives a basic framework for serving PygmalionAI's pygmalion-6b GPTJ model in production using Banana's serverless platform. Original model can be found [here](https://github.com/lucataco/serverless-pygmalion-6b)
+This repo gives a basic framework for serving PygmalionAI's pygmalion-6b GPTJ model in production using Banana's serverless platform. Original model can be found [here](https://huggingface.co/PygmalionAI/pygmalion-6b)
 
 ## Quickstart:
 
